@@ -1,0 +1,17 @@
+[
+  {
+    "session_ID": "AFT-9921",
+    "status": "SUCCESS",
+    "payload_data": { "item_count": 12, "processTimeMs": 142 }
+  },
+  {
+    "SESSION_ID": "aft-9922",
+    "status": "corrupted_Schema",
+    "payload_data": null
+  },
+  {
+    "session_id": "AFT-9923",
+    "status": "Success",
+    "payload_data": { "item_count": 3, "processTimeMs": 18 }
+  }
+]
